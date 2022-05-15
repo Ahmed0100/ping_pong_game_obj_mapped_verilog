@@ -1,0 +1,7 @@
+Sat Sep 19 20:35:54 CAT 2015
+Trace back: can't read "fdcs": no such variable
+    while executing
+".vcop Eval {Memdata::SearchDialog .main_pane.memdata.interior.cs.body}"
+    (menu invoke)
+  <2:C:/Modeltech_pe_edu_10.4a/win32pe_edu/tk8.5/bgerror.tcl:92: ::tkerror {can't read "fdcs": no such variable}
+  <1:eval:1: ::tk::dialog::error::bgerror {can't read "fdcs": no such variable}
